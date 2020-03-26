@@ -1,5 +1,6 @@
 package com.example.java_technologies.model;
 
+
 public class ChatMessage {
 
     private String content;
